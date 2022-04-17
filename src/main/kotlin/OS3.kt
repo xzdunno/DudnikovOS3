@@ -17,7 +17,7 @@ fun main() = runBlocking {
 
     val input = Scanner(System.`in`)
 
-    println("Запуск конвеера...")
+    println("Запуск конвейера")
     println("Для остановки нажмите 'q'")
 
 
